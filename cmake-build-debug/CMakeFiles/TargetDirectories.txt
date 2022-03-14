@@ -1,0 +1,3 @@
+C:/Users/jesus/CLionProjects/ee205-lab08c-all-creatures-great-and-small/cmake-build-debug/CMakeFiles/ee205_lab08c_all_creatures_great_and_small.dir
+C:/Users/jesus/CLionProjects/ee205-lab08c-all-creatures-great-and-small/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jesus/CLionProjects/ee205-lab08c-all-creatures-great-and-small/cmake-build-debug/CMakeFiles/rebuild_cache.dir
